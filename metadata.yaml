@@ -1,0 +1,40 @@
+_repo: Health-Through-Will-Power_37109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, J. J. (James Joseph)
+    - Walsh, James Joseph
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: ''
+gutenberg_issued: '2011-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37109'
+  lccn: '19017086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mental healing'
+- !lcsh 'Mental health'
+- !lcc 'RZ'
+- !lcsh 'Will'
+tableOfContents: Preface -- The will in life -- Dreads -- Habits -- Sympathy -- Self-pity
+  -- Avoidance of conscious use of the will -- What the will can do -- Pain and the
+  will -- The will and air and exercise -- The will to eat -- The place of the will
+  in tuberculosis -- The will in pneumonia -- Coughs and colds -- Neurotic asthma
+  and the will -- The will in intestinal function -- The will and the heart -- The
+  will in so-called chronic rheumatism -- Psycho-neuroses -- Feminine ills and the
+  will.
+title: Health Through Will Power
+url: http://www.gutenberg.org/ebooks/37109
